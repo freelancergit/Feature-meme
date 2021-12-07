@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("Main4 changes")
         print("Main5 changes")
         print("Main6 changes")
+        print("Main7 changes")
+
         // Do any additional setup after loading the view.
     }
 
