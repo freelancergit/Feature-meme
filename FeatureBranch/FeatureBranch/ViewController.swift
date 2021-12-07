@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Feature1 added")
+        print("Feature2 added")
         // Do any additional setup after loading the view.
     }
 
