@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Feature1 added")
         print("Feature2 added")
+        print("Feature3 added")
         // Do any additional setup after loading the view.
     }
 
