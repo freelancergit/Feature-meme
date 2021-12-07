@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("Feature1 added")
         print("Feature2 added")
         print("Feature3 added")
+        print("Feature4 added")
         print("Main1 changes")
         print("Main2 changes")
         print("Main3 changes")
